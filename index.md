@@ -64,10 +64,10 @@ Um apanhado de tecnologias com quais já trabalhei ao longo da minha carreira
 
 ## Links
 
-- GitHub: https://github.com/franciscocabral
-- LinkedIn: https://www.linkedin.com/in/franciscocabral5/
-- StackOverflow: https://stackoverflow.com/users/story/2651490
-- Twitter: https://twitter.com/barbascoding
+- [GitHub](https://github.com/franciscocabral)
+- [LinkedIn](https://www.linkedin.com/in/franciscocabral5/)
+- [StackOverflow](https://stackoverflow.com/users/story/2651490)
+- [Twitter](https://twitter.com/barbascoding)
 
 ## Contato
 

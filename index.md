@@ -1,11 +1,11 @@
 
 * [Sobre](#sobre)
-* [Formação](#Formação)
-* [Carreira](#Carreira)
-* [Tecnologias](#Tecnologias)
-* [Competições](#Competições)
+* [Formação](#formação)
+* [Carreira](#carreira)
+* [Tecnologias](#tecnologias)
+* [Competições](#competições)
 * [Links](#links)
-* [Contato](#Contato)
+* [Contato](#contato)
 
 ## Sobre
 

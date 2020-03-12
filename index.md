@@ -39,7 +39,7 @@ Comecei a desenvolver com 10 anos criando scripts e mods para jogos como Tibia, 
 - Mar 2019 → Atual
 
 ## Tecnologias
-Um apanhado de tecnologias com quais já trabalhei ao longo da minha carreira
+Um apanhado de tecnologias com quais já trabalhei ao longo da carreira
 
 - Linguagens: C, C++, C#, GoLang, Java, JavaScript, Kotlin, Lua, Php, Python, Ruby, TypeScript
 - Scripts: Bash, Shell, PowerShell, Python, NodeJS

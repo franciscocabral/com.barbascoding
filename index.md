@@ -1,11 +1,15 @@
-
-* [Sobre](#sobre)
-* [Formação](#formação)
-* [Carreira](#carreira)
-* [Tecnologias](#tecnologias)
-* [Competições](#competições)
-* [Links](#links)
-* [Contato](#contato)
+- [Sobre](#sobre)
+- [Formação](#formação)
+  - [Desenvolvimento de Sistemas](#desenvolvimento-de-sistemas)
+  - [Ciências da Computação](#ciências-da-computação)
+- [Carreira](#carreira)
+  - [Web Developper](#web-developper)
+  - [Backend Developer](#backend-developer)
+  - [Tech Lead and Software Architect](#tech-lead-and-software-architect)
+- [Tecnologias](#tecnologias)
+- [Competições](#competições)
+- [Links](#links)
+- [Contato](#contato)
 
 ## Sobre
 
@@ -17,50 +21,56 @@ Comecei a desenvolver com 10 anos criando scripts e mods para jogos como Tibia, 
 ## Formação
 
 ### Desenvolvimento de Sistemas
+
 - Instituto Federal de Sergipe
 - Jan 2009 → Dez 2012
 
 ### Ciências da Computação
+
 - Universidade Federal de Sergipe
 - Jan 2012 → Dez 2016
 
 ## Carreira
 
-### Web Developper 
-- IPTI 
+### Web Developper
+
+- IPTI
 - Jan 2013 → Mai 2017
 
-### Backend Developer 
-- Stone 
+### Backend Developer
+
+- Stone
 - Mai 2017 → Mar 2019
 
 ### Tech Lead and Software Architect
-- KeyCar 
+
+- KeyCar
 - Mar 2019 → Atual
 
 ## Tecnologias
+
 Um apanhado de tecnologias com quais já trabalhei ao longo da carreira
 
-- Linguagens: C, C++, C#, GoLang, Java, JavaScript, Kotlin, Lua, Php, Python, Ruby, TypeScript
-- Scripts: Bash, Shell, PowerShell, Python, NodeJS
-- Descritivas: YAML, Markdown, JSON
-- Comunicação: HTTP/s, MQTT/s, Serial, SOAP
-- Arquitetura: Serverless, Microservisso, CQRS, Monolitica 
-- Frameworks: Angular, React, Yii, Laravel, Rails, Express
-- CI/CD: Jenkins, VSTS, GoCD, Bitbucket-Pipelines, AWS CodeBuild, Azure Devops, Team City
-- Infraestrutura: AWS, GCloud, Azure, Kubernets, Docker, Linux, Windows, Nginx, Apache2, IIS, AWS Lambda
-- IAAC: Ansible, Terraform, Serverless
-- Databases: PostgreSQL, MySQL, SQL Server, MongoDB, DynamoDB
-- Cache: Redis, ElasticSearch
-- Brokers: Kafka, RabbitMQ, Amazon MQ, SQS
-- Versionamento: Git(Github, Bitbucket, GitLab), Subversion 
-- Projeto: Asana, Trello, Monday, Jira, Confluence, GitHub Projects
+- **Linguagens**: C, C++, C#, GoLang, Java, JavaScript, Kotlin, Lua, Php, Python, Ruby, TypeScript
+- **Scripts**: Bash, Shell, PowerShell, Python, NodeJS
+- **Descritivas**: YAML, Markdown, JSON
+- **Comunicação**: HTTP/s, MQTT/s, Serial, SOAP
+- **Arquitetura**: Serverless, Microserviço, CQRS, Monolítica
+- **Frameworks**: Angular, React, Vue, Yii, Laravel, Rails, Express
+- **CI/CD**: Jenkins, VSTS, GoCD, Bitbucket-Pipelines, Github-Actions, AWS CodeBuild, Azure Devops, Team City
+- **Infraestrutura**: AWS, GCloud, Azure, Kubernets, Docker, Linux, Windows, Nginx, Apache2, IIS, AWS Lambda
+- **IAAC**: Ansible, Terraform, Serverless
+- **Databases**: PostgreSQL, MySQL, SQL Server, MongoDB, DynamoDB
+- **Cache**: Redis, ElasticSearch
+- **Brokers**: Kafka, RabbitMQ, Amazon MQ, SQS/SNS
+- **Versionamento**: Git(Github, Bitbucket, GitLab), Subversion(SVN)
+- **Projeto**: Asana, Trello, Monday, Jira, Confluence, GitHub Projects
 
 ## Competições
 
-* OBI 2010 - Medalhista de Bonze Nacional e Prata estadual
-* OBI 2012 - Medalhista de Ouro estadual
-* OBI 2014 - Medalhista de Bronze estadual
+- OBI 2010 - Medalhista de Bonze Nacional e Prata estadual
+- OBI 2012 - Medalhista de Ouro estadual
+- OBI 2014 - Medalhista de Bronze estadual
 
 ## Links
 

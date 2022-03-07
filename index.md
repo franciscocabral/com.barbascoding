@@ -34,7 +34,7 @@ Comecei a desenvolver com 10 anos criando scripts e mods para jogos como Tibia, 
 
 ### Gestor de Tecnologia
 
-- Moblab | IturanMob
+- Moblab / IturanMob
 - Jan 2021 → atual
 
 

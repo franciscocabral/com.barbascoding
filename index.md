@@ -32,29 +32,37 @@ Comecei a desenvolver com 10 anos criando scripts e mods para jogos como Tibia, 
 
 ## Carreira
 
-### Web Developper
+### Gestor de Tecnologia
 
-- IPTI
-- Jan 2013 → Mai 2017
+- Moblab | IturanMob
+- Jan 2021 → atual
+
+
+### Tech Lead and Software Architect
+
+- KeyCar
+- Mar 2019 → Dez 2020
 
 ### Backend Developer
 
 - Stone
 - Mai 2017 → Mar 2019
 
-### Tech Lead and Software Architect
+### Web Developper
 
-- KeyCar
-- Mar 2019 → Atual
+- IPTI
+- Jan 2013 → Mai 2017
+
+
 
 ## Tecnologias
 
 Um apanhado de tecnologias com quais já trabalhei ao longo da carreira
 
-- **Linguagens**: C, C++, C#, GoLang, Java, JavaScript, Kotlin, Lua, Php, Python, Ruby, TypeScript
+- **Linguagens**: C, C++, C#, GoLang, Java, JavaScript, TypeScript, Kotlin, Lua, PHP, Python, Ruby
 - **Scripts**: Bash, Shell, PowerShell, Python, NodeJS
 - **Descritivas**: YAML, Markdown, JSON
-- **Comunicação**: HTTP/s, MQTT/s, Serial, SOAP
+- **Comunicação**: HTTP/s, MQTT/s, TCP/UDP, Serial, SOAP
 - **Arquitetura**: Serverless, Microserviço, CQRS, Monolítica
 - **Frameworks**: Angular, React, Vue, Yii, Laravel, Rails, Express
 - **CI/CD**: Jenkins, VSTS, GoCD, Bitbucket-Pipelines, Github-Actions, AWS CodeBuild, Azure Devops, Team City
@@ -62,7 +70,7 @@ Um apanhado de tecnologias com quais já trabalhei ao longo da carreira
 - **IAAC**: Ansible, Terraform, Serverless
 - **Databases**: PostgreSQL, MySQL, SQL Server, MongoDB, DynamoDB
 - **Cache**: Redis, ElasticSearch
-- **Brokers**: Kafka, RabbitMQ, Amazon MQ, SQS/SNS
+- **Brokers**: Kafka, RabbitMQ, Amazon MQ, SQS, SNS
 - **Versionamento**: Git(Github, Bitbucket, GitLab), Subversion(SVN)
 - **Projeto**: Asana, Trello, Monday, Jira, Confluence, GitHub Projects
 
@@ -82,4 +90,3 @@ Um apanhado de tecnologias com quais já trabalhei ao longo da carreira
 ## Contato
 
 - Email: [obarba@barbascoding.com](mailto:obarba@barbascoding.com)
-- Telefone: [+55 11 998781121](tel:+5511998781121)
